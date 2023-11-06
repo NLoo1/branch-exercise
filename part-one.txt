@@ -1,0 +1,7 @@
+1. git checkout -b [new branch] OR git branch [new branch]
+2. Fast forward --> stacks commits chronologically 
+Recursive merge --> different commits happen at different times on different branches
+3. git checkout [new branch]
+4. git branch -d [branch]
+git branch -D [branch] --> force removal
+5. Can occur when the same file is different between two branches that are trying to merge
